@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">RemoteController</string>
+
+    <string name="button_description_0">power</string>
+    <string name="button_description_1">ch1</string>
+    <string name="button_description_2">ch2</string>
+    <string name="button_description_3">ch3</string>
+    <string name="button_description_4">ch4</string>
+    <string name="button_description_5">ch5</string>
+    <string name="button_description_6">ch6</string>
+    <string name="button_description_7">ch7</string>
+    <string name="button_description_8">ch8</string>
+    <string name="button_description_9">ch9</string>
+    <string name="button_description_10">ch10</string>
+    <string name="button_description_11">ch11</string>
+    <string name="button_description_12">ch12</string>
+    <string name="button_description_13">channel_up</string>
+    <string name="button_description_14">channel_down</string>
+    <string name="button_description_15">volume_up</string>
+    <string name="button_description_16">volume_down</string>
+    <string name="text_channel">選局</string>
+    <string name="text_volume">音量</string>
+
 </resources>
